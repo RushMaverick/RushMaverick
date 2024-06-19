@@ -14,8 +14,7 @@ I am interested in game development and the games industry, and I love working w
 <p align="left">✨ Creating bugs since 2022. <br>📚 I'm currently learning Unreal Engine and C++. <br>🎯 Goals: Lead a game development team to a published product. <br>🎲 Fun fact: I am quite creative, but writing about myself is one of my biggest hurdles!</p>
 
 <h2 align="left">Game Projects</h2>
-###
-### [Geo Diver X](https://rushmaverick.itch.io/geo-diver-x)
+#### [Geo Diver X](https://rushmaverick.itch.io/geo-diver-x)
 Unreal Engine 5 Game Jam project about mechas, aliens and ...drilling?
 
 ###
