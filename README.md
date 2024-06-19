@@ -15,7 +15,7 @@ I am interested in game development and the games industry, and I love working w
 
 
 ## Game Projects
-#### [Geo Diver X]([https://rushmaverick.itch.io/geo-diver-x)]
+#### [Geo Diver X](https://rushmaverick.itch.io/geo-diver-x)
 Unreal Engine 5 Game Jam project about mechas, aliens and ...drilling?
 ###
 
