@@ -11,7 +11,7 @@ I am interested in game development and the games industry, and I love working w
 
 ###
 
-<p align="left">✨ Creating bugs since 2022. <br>📚 I'm currently learning Unreal Engine and C++. <br>🎯 Goals: Lead a game development team to a published product. <br>🎲 Fun fact: I am quite creative, but writing about myself is one of my biggest hurdles!</p>
+<p align="left">✨ Creating bugs since 2022. <br>📚 I'm currently working with Unity and C#. <br>🎯 Goals: Lead a game development team to a published product. <br>🎲 Fun fact: I am quite creative, but writing about myself is one of my biggest hurdles!</p>
 
 
 ## Game Projects
